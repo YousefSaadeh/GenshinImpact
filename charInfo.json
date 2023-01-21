@@ -120,9 +120,13 @@
  "10000076":
  {"id":10000076,"rank":4,"name":"Faruzan","element":"Wind","weaponType":"WEAPON_BOW","icon":"UI_AvatarIcon_Faruzan","birthday":[8,20],"release":1670277600,"route":"Faruzan"},
  "10000077":
- {"id":10000077,"rank":4,"name":"Yaoyao","element":"Grass","weaponType":"WEAPON_POLE","icon":"UI_AvatarIcon_Yaoyao","birthday":[3,6],"release":1672524000,"route":"Yaoyao","beta":true},
+ {"id":10000077,"rank":4,"name":"Yaoyao","element":"Grass","weaponType":"WEAPON_POLE","icon":"UI_AvatarIcon_Yaoyao","birthday":[3,6],"release":1672524000,"route":"Yaoyao","beta":false},
  "10000078":
- {"id":10000078,"rank":5,"name":"Alhaitham","element":"Grass","weaponType":"WEAPON_SWORD_ONE_HAND","icon":"UI_AvatarIcon_Alhatham","birthday":[2,11],"release":1672524000,"route":"Alhaitham","beta":true},
+ {"id":10000078,"rank":5,"name":"Alhaitham","element":"Grass","weaponType":"WEAPON_SWORD_ONE_HAND","icon":"UI_AvatarIcon_Alhatham","birthday":[2,11],"release":1672524000,"route":"Alhaitham","beta":false},
+ "10000079":
+ {"id":10000079,"rank":5,"name":"Dehya","element":"Fire","weaponType":"WEAPON_CLAYMORE","icon":"UI_AvatarIcon_Dehya","birthday":[1,1],"release":1673992800,"route":"Dehya","beta":true},
+ "10000080":
+ {"id":10000080,"rank":4,"name":"Mika","element":"Ice","weaponType":"WEAPON_POLE","icon":"UI_AvatarIcon_Mika","birthday":[1,1],"release":1673992800,"route":"Mika","beta":true},
  "10000005-anemo":
  {"id":"10000005-anemo","rank":5,"name":"Traveler","element":"Wind","weaponType":"WEAPON_SWORD_ONE_HAND","icon":"UI_AvatarIcon_PlayerBoy","birthday":[0,0],"route":"Anemo Traveler Boy"},
  "10000005-geo":
