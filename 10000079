@@ -1,1 +1,1 @@
-{"response":200,"raven":{"build":"","ascension":"","constellations":"","notes":""},"data":{"id":10000079,"rank":5,"name":"Dehya","element":"Fire","weaponType":"WEAPON_CLAYMORE","icon":"UI_AvatarIcon_Dehya","birthday":[1,1],"release":1673992800,"route":"Dehya","beta":true}}
+{"response":200,"raven":{"build":"","ascension":"","constellations":"","notes":""},"data":{"id":10000079,"rank":5,"name":"Dehya","element":"Fire","weaponType":"WEAPON_CLAYMORE","icon":"UI_EquipIcon_Sword_Blunt","birthday":[1,1],"release":1673992800,"route":"Dehya"}}
