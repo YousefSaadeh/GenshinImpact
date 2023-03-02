@@ -1,3 +1,6 @@
 {
-"WEAPON_BOW" :{"rank4" :[{"Favonius Warbow" :"URL"}], "rank5" :[{"Elegy for the End" :"URL"}]}
-}
+"BOW" :{
+  "rank4" :[["Favonius Warbow","URL"], ["weapon2","URL2"]], 
+  "rank5" :[["Elegy for the End","URL"]]
+  }
+} 
