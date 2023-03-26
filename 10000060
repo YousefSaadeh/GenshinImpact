@@ -1,15 +1,1 @@
-{
-"response" :200,
-"raven" :{"build":"zq0Q4lP", 
-          "ascension":"iaMTtNI", 
-          "constellations":"DGG682C", 
-          "notes":"fuoOQD4"}, 
-"data" :{"id":10000060, 
-          "rank":5,"name":"Yelan", 
-          "element":"Water", 
-          "weaponType":"WEAPON_BOW", 
-          "icon":"UI_AvatarIcon_Yelan", 
-          "birthday":[4,20], 
-          "release":1653944400, 
-          "route":"Yelan"}
-}
+{"response":200,"raven":{"build":"pnNV9bx","ascension":"pSNjRYi","constellations":"CXk6FyS","notes":"ELANCa0"},"data":{"id":10000025,"rank":4,"name":"Xingqiu","element":"Water","weaponType":"WEAPON_SWORD_ONE_HAND","icon":"UI_AvatarIcon_Xingqiu","birthday":[10,9],"release":1600131600,"route":"Xingqiu"}}
